@@ -1,0 +1,33 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-brand-a {
+  /* cols of grid on breakpoint */
+  --mc-space-alias-grid-cols: 12px;
+  /* medium spacing unit */
+  --mc-space-alias-spacing-md: var(--mc-dimension-global-dimension-2xs);
+  /* small spacing unit */
+  --mc-space-alias-spacing-sm: var(--mc-dimension-global-dimension-3xs);
+  /* extra small spacing unit */
+  --mc-space-alias-spacing-xs: var(--mc-dimension-global-dimension-4xs);
+  /* spacing of none */
+  --mc-space-alias-spacing-none: var(--mc-dimension-global-dimension-none);
+  /* extra extra extra small spacing unit */
+  --mc-space-alias-spacing-3xs: var(--mc-dimension-global-dimension-6xs);
+  /* extra extra small spacing unit */
+  --mc-space-alias-spacing-2xs: var(--mc-dimension-global-dimension-5xs);
+  /* large spacing unit */
+  --mc-space-alias-spacing-lg: var(--mc-dimension-global-dimension-sm);
+  /* extra large spacing unit */
+  --mc-space-alias-spacing-xl: var(--mc-dimension-global-dimension-md);
+  /* extra extra small spacing unit */
+  --mc-space-alias-spacing-2xl: var(--mc-dimension-global-dimension-xl);
+  /* extra extra extra small spacing unit */
+  --mc-space-alias-spacing-3xl: var(--mc-dimension-global-dimension-4xl);
+  /* padding of main container */
+  --mc-space-alias-layout-container-main-padding-left-right: var(--mc-size-alias-size-md);
+  /* gutter of grid */
+  --mc-space-alias-grid-gutter: var(--mc-space-alias-spacing-xs);
+}

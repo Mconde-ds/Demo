@@ -1,0 +1,35 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-screen-large {
+  /* lineheight for display 1 */
+  --mc-line-height-alias-typescale-line-height-display-1: var(--mc-dimension-global-font-line-height-3xl);
+  /* lineheight for display 2 */
+  --mc-line-height-alias-typescale-line-height-display-2: var(--mc-dimension-global-font-line-height-2xl);
+  /* lineheight of headline 01 */
+  --mc-line-height-alias-typescale-line-height-headline-1: var(--mc-dimension-global-font-line-height-ml);
+  /* lineheight of headline 02 */
+  --mc-line-height-alias-typescale-line-height-headline-2: var(--mc-dimension-global-font-line-height-ml);
+  /* lineheight of headline 03 */
+  --mc-line-height-alias-typescale-line-height-headline-3: var(--mc-dimension-global-font-line-height-sm);
+  /* lineheight of headline 04 */
+  --mc-line-height-alias-typescale-line-height-headline-4: var(--mc-dimension-global-font-line-height-xs);
+  /* lineheightof headline 05 */
+  --mc-line-height-alias-typescale-line-height-headline-5: var(--mc-dimension-global-font-line-height-2xs);
+  /* lineheight of single line labels */
+  --mc-line-height-alias-typescale-line-height-label-short: var(--mc-dimension-global-font-line-height-xs);
+  /* lineheight of multi line labels */
+  --mc-line-height-alias-typescale-line-height-label-long: var(--mc-dimension-global-font-line-height-sm);
+  /* lineheight of single line body texts */
+  --mc-line-height-alias-typescale-line-height-body-short: var(--mc-dimension-global-font-line-height-xs);
+  /* lineheight of multi line body texts */
+  --mc-line-height-alias-typescale-line-height-body-long: var(--mc-dimension-global-font-line-height-sm);
+  /* lineheight of small body texts */
+  --mc-line-height-alias-typescale-line-height-body-small: var(--mc-dimension-global-font-line-height-3xs);
+  /* font size of default hyperlinks */
+  --mc-line-height-alias-typescale-line-height-hyperlink-default: var(--mc-dimension-global-font-line-height-sm);
+  /* font size of hyperlinks in hover state */
+  --mc-line-height-alias-typescale-line-height-hyperlink-hover: var(--mc-dimension-global-font-line-height-sm);
+}

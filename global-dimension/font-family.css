@@ -1,0 +1,35 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-global-dimension {
+  /* fontfamily for display 01 */
+  --mc-font-family-alias-typescale-font-family-display-1: var(--mc-string-global-font-family-display);
+  /* fontfamily for display 02 */
+  --mc-font-family-alias-typescale-font-family-display-2: var(--mc-string-global-font-family-display);
+  /* fontfamily for headline 01 */
+  --mc-font-family-alias-typescale-font-family-headline-1: var(--mc-string-global-font-family-content);
+  /* fontfamily for headline 02 */
+  --mc-font-family-alias-typescale-font-family-headline-2: var(--mc-string-global-font-family-content);
+  /* fontfamily for headline 03 */
+  --mc-font-family-alias-typescale-font-family-headline-3: var(--mc-string-global-font-family-content);
+  /* fontweight for headline 04 */
+  --mc-font-family-alias-typescale-font-family-headline-4: var(--mc-string-global-font-family-content);
+  /* fontfamily for headline 05 */
+  --mc-font-family-alias-typescale-font-family-headline-5: var(--mc-string-global-font-family-content);
+  /* fontfamily for single line labels */
+  --mc-font-family-alias-typescale-font-family-label-short: var(--mc-string-global-font-family-content);
+  /* fontfamily for multi line labels */
+  --mc-font-family-alias-typescale-font-family-label-long: var(--mc-string-global-font-family-content);
+  /* fontfamily for single line paragraph texts */
+  --mc-font-family-alias-typescale-font-family-body-short: var(--mc-string-global-font-family-content);
+  /* fontfamily for multi line paragraph texts */
+  --mc-font-family-alias-typescale-font-family-body-long: var(--mc-string-global-font-family-content);
+  /* fontfamily for small paragraph texts */
+  --mc-font-family-alias-typescale-font-family-body-small: var(--mc-string-global-font-family-content);
+  /* fontfamily for hyperlinks */
+  --mc-font-family-alias-typescale-font-family-hyperlink-default: var(--mc-string-global-font-family-content);
+  /* fontfamily for hyperlinks in hover state */
+  --mc-font-family-alias-typescale-font-family-hyperlink-hover: var(--mc-string-global-font-family-content);
+}

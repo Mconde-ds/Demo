@@ -1,0 +1,35 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-brand-a {
+  /* letterspacing for display 01 */
+  --mc-letter-spacing-alias-typescale-letter-spacing-display-1: var(--mc-dimension-global-font-letter-spacing-xs);
+  /* letterspacing for display 02 */
+  --mc-letter-spacing-alias-typescale-letter-spacing-display-2: var(--mc-dimension-global-font-letter-spacing-xs);
+  /* letterspacing for headline 01 */
+  --mc-letter-spacing-alias-typescale-letter-spacing-headline-1: var(--mc-dimension-global-font-letter-spacing-xs);
+  /* letterspacing for headline 02 */
+  --mc-letter-spacing-alias-typescale-letter-spacing-headline-2: var(--mc-dimension-global-font-letter-spacing-xs);
+  /* letterspacing for headline 03 */
+  --mc-letter-spacing-alias-typescale-letter-spacing-headline-3: var(--mc-dimension-global-font-letter-spacing-xs);
+  /* letterspacing for headline 04 */
+  --mc-letter-spacing-alias-typescale-letter-spacing-headline-4: var(--mc-dimension-global-font-letter-spacing-xs);
+  /* letterspacing for headline 05 */
+  --mc-letter-spacing-alias-typescale-letter-spacing-headline-5: var(--mc-dimension-global-font-letter-spacing-sm);
+  /* letterspacing for single line labels */
+  --mc-letter-spacing-alias-typescale-letter-spacing-label-short: var(--mc-dimension-global-font-letter-spacing-md);
+  /* letterspacing for multi line labels */
+  --mc-letter-spacing-alias-typescale-letter-spacing-label-long: var(--mc-dimension-global-font-letter-spacing-md);
+  /* letterspacing for single line body text */
+  --mc-letter-spacing-alias-typescale-letter-spacing-body-short: var(--mc-dimension-global-font-letter-spacing-sm);
+  /* letterspacing for multi line body text */
+  --mc-letter-spacing-alias-typescale-letter-spacing-body-long: var(--mc-dimension-global-font-letter-spacing-sm);
+  /* letterspacing for small body texts */
+  --mc-letter-spacing-alias-typescale-letter-spacing-body-small: var(--mc-dimension-global-font-letter-spacing-md);
+  /* letterspacing for hyperlinks in default state */
+  --mc-letter-spacing-alias-typescale-letter-spacing-hyperlink-default: var(--mc-dimension-global-font-letter-spacing-sm);
+  /* letterspacing for hyperlinks in hover state */
+  --mc-letter-spacing-alias-typescale-letter-spacing-hyperlink-hover: var(--mc-dimension-global-font-letter-spacing-md);
+}
