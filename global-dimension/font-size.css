@@ -1,0 +1,35 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-global-dimension {
+  /* font size of display 01 */
+  --mc-font-size-alias-typescale-font-size-display-1: var(--mc-dimension-global-font-size-3xl);
+  /* font size of display 02 */
+  --mc-font-size-alias-typescale-font-size-display-2: var(--mc-dimension-global-font-size-2xl);
+  /* font size of headline 01 */
+  --mc-font-size-alias-typescale-font-size-headline-1: var(--mc-dimension-global-font-size-lg);
+  /* font size of headline 02 */
+  --mc-font-size-alias-typescale-font-size-headline-2: var(--mc-dimension-global-font-size-md);
+  /* font size of headline 03 */
+  --mc-font-size-alias-typescale-font-size-headline-3: var(--mc-dimension-global-font-size-sm);
+  /* font size of headline 04 */
+  --mc-font-size-alias-typescale-font-size-headline-4: var(--mc-dimension-global-font-size-xs);
+  /* font size of headline 05 */
+  --mc-font-size-alias-typescale-font-size-headline-5: var(--mc-dimension-global-font-size-2xs);
+  /* font size of single line labels */
+  --mc-font-size-alias-typescale-font-size-label-short: var(--mc-dimension-global-font-size-xs);
+  /* font size of multi line labels */
+  --mc-font-size-alias-typescale-font-size-label-long: var(--mc-dimension-global-font-size-xs);
+  /* font size of single line body texts */
+  --mc-font-size-alias-typescale-font-size-body-short: var(--mc-dimension-global-font-size-xs);
+  /* font size of multi line body texts */
+  --mc-font-size-alias-typescale-font-size-body-long: var(--mc-dimension-global-font-size-xs);
+  /* font size of small body texts */
+  --mc-font-size-alias-typescale-font-size-body-small: var(--mc-dimension-global-font-size-2xs);
+  /* font size of default hyperlinks */
+  --mc-font-size-alias-typescale-font-size-hyperlink-default: var(--mc-dimension-global-font-size-xs);
+  /* font size of hyperlinks in hover state */
+  --mc-font-size-alias-typescale-font-size-hyperlink-hover: var(--mc-dimension-global-font-size-xs);
+}

@@ -1,0 +1,31 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-dark-mode {
+  /* medium size unit */
+  --mc-size-alias-size-md: var(--mc-dimension-global-dimension-md);
+  /* size of none */
+  --mc-size-alias-size-none: var(--mc-dimension-global-dimension-none);
+  /* extra extra extra small size unit */
+  --mc-size-alias-size-3xs: var(--mc-dimension-global-dimension-3xs);
+  /* extra extra small size unit */
+  --mc-size-alias-size-2xs: var(--mc-dimension-global-dimension-2xs);
+  /* extra small size unit */
+  --mc-size-alias-size-xs: var(--mc-dimension-global-dimension-xs);
+  /* small size unit */
+  --mc-size-alias-size-sm: var(--mc-dimension-global-dimension-sm);
+  /* large size unit */
+  --mc-size-alias-size-lg: var(--mc-dimension-global-dimension-xl);
+  /* extra large size unit */
+  --mc-size-alias-size-xl: var(--mc-dimension-global-dimension-2xl);
+  /* extra extra large size unit */
+  --mc-size-alias-size-2xl: var(--mc-dimension-global-dimension-4xl);
+  /* extra extra extra large size unit */
+  --mc-size-alias-size-3xl: var(--mc-dimension-global-dimension-5xl);
+  /* max-width of screensize */
+  --mc-size-alias-layout-screen-max-width: var(--mc-dimension-global-dimension-breakpoints-screen-large);
+  /* margin of grid */
+  --mc-size-alias-grid-margin-left-right: var(--mc-size-alias-size-md);
+}

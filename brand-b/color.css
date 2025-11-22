@@ -1,0 +1,230 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-brand-b {
+  --mc-color-global-color-palette-neutral-50: #fafaf9;
+  --mc-color-global-color-palette-neutral-100: #f5f5f4;
+  --mc-color-global-color-palette-neutral-200: #e7e5e4;
+  --mc-color-global-color-palette-neutral-300: #d6d3d1;
+  --mc-color-global-color-palette-neutral-400: #a8a29e;
+  --mc-color-global-color-palette-neutral-500: #78716c;
+  --mc-color-global-color-palette-neutral-600: #57534e;
+  --mc-color-global-color-palette-neutral-700: #44403c;
+  --mc-color-global-color-palette-neutral-800: #292524;
+  --mc-color-global-color-palette-neutral-900: #1c1917;
+  --mc-color-global-color-palette-neutral-950: #0c0a09;
+  --mc-color-global-color-palette-orange-50: #fff7ed;
+  --mc-color-global-color-palette-orange-100: #ffedd5;
+  --mc-color-global-color-palette-orange-200: #fed7aa;
+  --mc-color-global-color-palette-orange-300: #fdba74;
+  --mc-color-global-color-palette-orange-400: #fb923c;
+  --mc-color-global-color-palette-orange-500: #f97316;
+  --mc-color-global-color-palette-orange-600: #ea580c;
+  --mc-color-global-color-palette-orange-700: #c2410c;
+  --mc-color-global-color-palette-orange-800: #9a3412;
+  --mc-color-global-color-palette-orange-900: #431407;
+  --mc-color-global-color-palette-blue-50: #eff6ff;
+  --mc-color-global-color-palette-blue-100: #dbeafe;
+  --mc-color-global-color-palette-blue-200: #bfdbfe;
+  --mc-color-global-color-palette-blue-300: #93c5fd;
+  --mc-color-global-color-palette-blue-400: #60a5fa;
+  --mc-color-global-color-palette-blue-500: #3b82f6;
+  --mc-color-global-color-palette-blue-600: #2563eb;
+  --mc-color-global-color-palette-blue-700: #1d4ed8;
+  --mc-color-global-color-palette-blue-800: #1e40af;
+  --mc-color-global-color-palette-blue-900: #172554;
+  --mc-color-global-color-palette-red-50: #fff1f2;
+  --mc-color-global-color-palette-red-100: #ffe4e6;
+  --mc-color-global-color-palette-red-200: #fecdd3;
+  --mc-color-global-color-palette-red-300: #fda4af;
+  --mc-color-global-color-palette-red-400: #fb7185;
+  --mc-color-global-color-palette-red-500: #f43f5e;
+  --mc-color-global-color-palette-red-600: #e11d48;
+  --mc-color-global-color-palette-red-700: #be123c;
+  --mc-color-global-color-palette-red-800: #9f1239;
+  --mc-color-global-color-palette-red-900: #4c0519;
+  --mc-color-global-color-palette-yellow-50: #fefce8;
+  --mc-color-global-color-palette-yellow-100: #fef9c3;
+  --mc-color-global-color-palette-yellow-200: #fef08a;
+  --mc-color-global-color-palette-yellow-300: #fde047;
+  --mc-color-global-color-palette-yellow-400: #facc15;
+  --mc-color-global-color-palette-yellow-500: #eab308;
+  --mc-color-global-color-palette-yellow-600: #ca8a04;
+  --mc-color-global-color-palette-yellow-700: #a16207;
+  --mc-color-global-color-palette-yellow-800: #854d0e;
+  --mc-color-global-color-palette-yellow-900: #422006;
+  --mc-color-global-color-palette-green-50: #f0fdf4;
+  --mc-color-global-color-palette-green-100: #dcfce7;
+  --mc-color-global-color-palette-green-200: #bbf7d0;
+  --mc-color-global-color-palette-green-300: #86efac;
+  --mc-color-global-color-palette-green-400: #4ade80;
+  --mc-color-global-color-palette-green-500: #22c55e;
+  --mc-color-global-color-palette-green-600: #16a34a;
+  --mc-color-global-color-palette-green-700: #15803d;
+  --mc-color-global-color-palette-green-800: #166534;
+  --mc-color-global-color-palette-green-900: #052e16;
+  --mc-color-global-color-palette-violet-50: #faf5ff;
+  --mc-color-global-color-palette-violet-100: #f3e8ff;
+  --mc-color-global-color-palette-violet-200: #e9d5ff;
+  --mc-color-global-color-palette-violet-300: #d8b4fe;
+  --mc-color-global-color-palette-violet-400: #c084fc;
+  --mc-color-global-color-palette-violet-500: #a855f7;
+  --mc-color-global-color-palette-violet-600: #9333ea;
+  --mc-color-global-color-palette-violet-700: #7e22ce;
+  --mc-color-global-color-palette-violet-800: #6b21a8;
+  --mc-color-global-color-palette-violet-900: #2e1065;
+  --mc-color-global-color-palette-mint-50: #f0fdfa;
+  --mc-color-global-color-palette-mint-100: #ccfbf1;
+  --mc-color-global-color-palette-mint-200: #99f6e4;
+  --mc-color-global-color-palette-mint-300: #5eead4;
+  --mc-color-global-color-palette-mint-400: #2dd4bf;
+  --mc-color-global-color-palette-mint-500: #14b8a6;
+  --mc-color-global-color-palette-mint-600: #0d9488;
+  --mc-color-global-color-palette-mint-700: #0f766e;
+  --mc-color-global-color-palette-mint-800: #115e59;
+  --mc-color-global-color-palette-mint-900: #042f2e;
+  /* Background color for state overlay of a hovered element */
+  --mc-color-alias-color-state-hover: #0c0a0929;
+  /* Background color for state overlay of a focused element */
+  --mc-color-alias-color-state-focus: #0c0a0929;
+  /* Background color for state overlay of a pressed element */
+  --mc-color-alias-color-state-press: #0c0a0914;
+  --mc-color-global-color-brand-role-main-primary-lightest: var(--mc-color-global-color-palette-orange-50);
+  --mc-color-global-color-brand-role-main-primary-light: var(--mc-color-global-color-palette-orange-100);
+  --mc-color-global-color-brand-role-main-primary-medium: var(--mc-color-global-color-palette-orange-400);
+  --mc-color-global-color-brand-role-main-primary-strong: var(--mc-color-global-color-palette-orange-500);
+  --mc-color-global-color-brand-role-main-primary-bold: var(--mc-color-global-color-palette-orange-600);
+  --mc-color-global-color-brand-role-main-primary-dark: var(--mc-color-global-color-palette-orange-900);
+  --mc-color-global-color-brand-role-main-secondary-lightest: var(--mc-color-global-color-palette-blue-50);
+  --mc-color-global-color-brand-role-main-secondary-light: var(--mc-color-global-color-palette-blue-100);
+  --mc-color-global-color-brand-role-main-secondary-medium: var(--mc-color-global-color-palette-blue-400);
+  --mc-color-global-color-brand-role-main-secondary-strong: var(--mc-color-global-color-palette-blue-500);
+  --mc-color-global-color-brand-role-main-secondary-bold: var(--mc-color-global-color-palette-blue-700);
+  --mc-color-global-color-brand-role-main-secondary-dark: var(--mc-color-global-color-palette-blue-900);
+  --mc-color-global-color-brand-role-intent-success-lightest: var(--mc-color-global-color-palette-green-50);
+  --mc-color-global-color-brand-role-intent-success-light: var(--mc-color-global-color-palette-green-100);
+  --mc-color-global-color-brand-role-intent-success-medium: var(--mc-color-global-color-palette-green-300);
+  --mc-color-global-color-brand-role-intent-success-strong: var(--mc-color-global-color-palette-green-500);
+  --mc-color-global-color-brand-role-intent-success-bold: var(--mc-color-global-color-palette-green-700);
+  --mc-color-global-color-brand-role-intent-success-dark: var(--mc-color-global-color-palette-green-900);
+  --mc-color-global-color-brand-role-intent-warning-lightest: var(--mc-color-global-color-palette-yellow-50);
+  --mc-color-global-color-brand-role-intent-warning-light: var(--mc-color-global-color-palette-yellow-100);
+  --mc-color-global-color-brand-role-intent-warning-medium: var(--mc-color-global-color-palette-yellow-300);
+  --mc-color-global-color-brand-role-intent-warning-strong: var(--mc-color-global-color-palette-yellow-500);
+  --mc-color-global-color-brand-role-intent-warning-bold: var(--mc-color-global-color-palette-yellow-700);
+  --mc-color-global-color-brand-role-intent-warning-dark: var(--mc-color-global-color-palette-yellow-900);
+  --mc-color-global-color-brand-role-intent-critical-lightest: var(--mc-color-global-color-palette-red-50);
+  --mc-color-global-color-brand-role-intent-critical-light: var(--mc-color-global-color-palette-red-100);
+  --mc-color-global-color-brand-role-intent-critical-medium: var(--mc-color-global-color-palette-red-300);
+  --mc-color-global-color-brand-role-intent-critical-strong: var(--mc-color-global-color-palette-red-400);
+  --mc-color-global-color-brand-role-intent-critical-bold: var(--mc-color-global-color-palette-red-700);
+  --mc-color-global-color-brand-role-intent-critical-dark: var(--mc-color-global-color-palette-red-900);
+  --mc-color-global-color-brand-role-intent-info-lightest: var(--mc-color-global-color-palette-violet-50);
+  --mc-color-global-color-brand-role-intent-info-light: var(--mc-color-global-color-palette-violet-100);
+  --mc-color-global-color-brand-role-intent-info-medium: var(--mc-color-global-color-palette-violet-300);
+  --mc-color-global-color-brand-role-intent-info-strong: var(--mc-color-global-color-palette-violet-500);
+  --mc-color-global-color-brand-role-intent-info-bold: var(--mc-color-global-color-palette-violet-700);
+  --mc-color-global-color-brand-role-intent-info-dark: var(--mc-color-global-color-palette-violet-900);
+  --mc-color-global-color-brand-role-neutral-lightest: var(--mc-color-global-color-palette-neutral-50);
+  --mc-color-global-color-brand-role-neutral-lighter: var(--mc-color-global-color-palette-neutral-100);
+  --mc-color-global-color-brand-role-neutral-light: var(--mc-color-global-color-palette-neutral-200);
+  --mc-color-global-color-brand-role-neutral-medium: var(--mc-color-global-color-palette-neutral-400);
+  --mc-color-global-color-brand-role-neutral-strong: var(--mc-color-global-color-palette-neutral-500);
+  --mc-color-global-color-brand-role-neutral-bold: var(--mc-color-global-color-palette-neutral-700);
+  --mc-color-global-color-brand-role-neutral-dark: var(--mc-color-global-color-palette-neutral-900);
+  --mc-color-global-color-brand-role-neutral-darkest: var(--mc-color-global-color-palette-neutral-950);
+  --mc-color-global-color-brand-role-decorative-01-lightest: var(--mc-color-global-color-palette-mint-50);
+  --mc-color-global-color-brand-role-decorative-01-light: var(--mc-color-global-color-palette-mint-100);
+  --mc-color-global-color-brand-role-decorative-01-medium: var(--mc-color-global-color-palette-mint-300);
+  --mc-color-global-color-brand-role-decorative-01-strong: var(--mc-color-global-color-palette-mint-500);
+  --mc-color-global-color-brand-role-decorative-01-bold: var(--mc-color-global-color-palette-mint-700);
+  --mc-color-global-color-brand-role-decorative-01-dark: var(--mc-color-global-color-palette-mint-900);
+  /* Color that indicates interactions */
+  --mc-color-alias-color-primary-interaction: var(--mc-color-global-color-brand-role-main-primary-strong);
+  /* color for elements that are placed on interactive background colors */
+  --mc-color-alias-color-primary-on-interaction: var(--mc-color-global-color-brand-role-main-primary-lightest);
+  /* background color for primary brand elements */
+  --mc-color-alias-color-primary-brand: var(--mc-color-global-color-brand-role-main-primary-bold);
+  /* color for elements that are placed on brand background color */
+  --mc-color-alias-color-primary-on-brand: var(--mc-color-global-color-brand-role-main-primary-light);
+  /* color for elements with informational purpose of high emphasis */
+  --mc-color-alias-color-intent-info-high-emphasis: var(--mc-color-global-color-brand-role-intent-info-medium);
+  /* color for elements with informational purpose of low emphasis */
+  --mc-color-alias-color-intent-info-low-emphasis: var(--mc-color-global-color-brand-role-intent-info-light);
+  /* color for elements placed on informational purpose background */
+  --mc-color-alias-color-intent-on-info: var(--mc-color-global-color-brand-role-intent-info-dark);
+  /* color for elements with success purpose of high emphasis */
+  --mc-color-alias-color-intent-success-high-emphasis: var(--mc-color-global-color-brand-role-intent-success-medium);
+  /* color for elements with success purpose of low emphasis */
+  --mc-color-alias-color-intent-success-low-emphasis: var(--mc-color-global-color-brand-role-intent-success-light);
+  /* color for elements placed on success purpose background */
+  --mc-color-alias-color-intent-on-success: var(--mc-color-global-color-brand-role-intent-success-dark);
+  /* color for elements with warning purpose of high emphasis */
+  --mc-color-alias-color-intent-warning-high-emphasis: var(--mc-color-global-color-brand-role-intent-warning-medium);
+  /* color for elements with warning purpose of low emphasis */
+  --mc-color-alias-color-intent-warning-low-emphasis: var(--mc-color-global-color-brand-role-intent-warning-light);
+  /* color for elements placed on warning purpose background */
+  --mc-color-alias-color-intent-on-warning: var(--mc-color-global-color-brand-role-intent-warning-dark);
+  /* color for elements with critical purpose of high emphasis */
+  --mc-color-alias-color-intent-critical-high-emphasis: var(--mc-color-global-color-brand-role-intent-critical-medium);
+  /* color for elements with critical purpose of low emphasis */
+  --mc-color-alias-color-intent-critical-low-emphasis: var(--mc-color-global-color-brand-role-intent-critical-light);
+  /* color for elements placed on critical purpose background */
+  --mc-color-alias-color-intent-on-critical: var(--mc-color-global-color-brand-role-intent-critical-dark);
+  /* Body background color */
+  --mc-color-alias-color-background-body: var(--mc-color-global-color-brand-role-neutral-light);
+  /* Background Color for components with high emphasis */
+  --mc-color-alias-color-background-high-emphasis: var(--mc-color-global-color-brand-role-neutral-lightest);
+  /* background color for elements with a low emphasis */
+  --mc-color-alias-color-background-low-emphasis: var(--mc-color-global-color-brand-role-neutral-medium);
+  /* Default text color */
+  --mc-color-alias-color-text-default: var(--mc-color-global-color-brand-role-neutral-darkest);
+  /* Inverted text color */
+  --mc-color-alias-color-text-inverted: var(--mc-color-global-color-brand-role-neutral-lightest);
+  /* Text color in subtle weight */
+  --mc-color-alias-color-text-subtle: var(--mc-color-global-color-brand-role-neutral-strong);
+  /* background color for disabled elements */
+  --mc-color-alias-color-state-disable: var(--mc-color-global-color-brand-role-neutral-medium);
+  /* color for elements that are placed on disabled background color */
+  --mc-color-alias-color-state-on-disable: var(--mc-color-global-color-brand-role-neutral-dark);
+  /* background color for selected elements */
+  --mc-color-alias-color-state-select: var(--mc-color-global-color-brand-role-main-primary-light);
+  /* Foreground color for selected elements */
+  --mc-color-alias-color-state-on-select: var(--mc-color-global-color-brand-role-main-primary-bold);
+  /* Inverted background color for selected elements */
+  --mc-color-alias-color-state-select-inverted: var(--mc-color-global-color-brand-role-main-primary-bold);
+  /* inverted color for elements on selected backgrounds */
+  --mc-color-alias-color-state-on-select-inverted: var(--mc-color-global-color-brand-role-main-primary-light);
+  /* subtle border color */
+  --mc-color-alias-color-border-subtle: var(--mc-color-global-color-brand-role-neutral-light);
+  /* medium border color */
+  --mc-color-alias-color-border-medium: var(--mc-color-global-color-brand-role-neutral-medium);
+  /* heavy border color */
+  --mc-color-alias-color-border-heavy: var(--mc-color-global-color-brand-role-neutral-strong);
+  /* color for default focus outline */
+  --mc-color-alias-color-border-focus-outline: var(--mc-color-global-color-brand-role-intent-info-strong);
+  /* Background Color for components with medium emphasis */
+  --mc-color-alias-color-background-medium-emphasis: var(--mc-color-global-color-brand-role-neutral-lighter);
+  /* secondary interaction color for backgrounds */
+  --mc-color-alias-color-secondary-interaction: var(--mc-color-global-color-brand-role-main-secondary-bold);
+  /* secondary foreground color for interactions */
+  --mc-color-alias-color-secondary-on-interaction: var(--mc-color-global-color-brand-role-main-secondary-lightest);
+  /* secondary brand color for backgrounds */
+  --mc-color-alias-color-secondary-brand: var(--mc-color-global-color-brand-role-main-secondary-bold);
+  /* secondary brand color for backgrounds */
+  --mc-color-alias-color-secondary-on-brand: var(--mc-color-global-color-brand-role-main-secondary-lightest);
+  /* background color for success section messages */
+  --mc-color-component-section-message-success-background: var(--mc-color-global-color-brand-role-intent-success-medium);
+  /* text color for success section messages */
+  --mc-color-component-section-message-success-text: var(--mc-color-global-color-brand-role-intent-success-dark);
+  /* background color for warning section messages */
+  --mc-color-component-section-message-warning-background: var(--mc-color-global-color-brand-role-intent-warning-medium);
+  /* text color for warning section messages */
+  --mc-color-component-section-message-warning-text: var(--mc-color-global-color-brand-role-intent-warning-dark);
+  /* icon color for success section messages */
+  --mc-color-component-section-message-success-icon: var(--mc-color-global-color-brand-role-intent-success-dark);
+  /* icon color for warning section messages */
+  --mc-color-component-section-message-warning-icon: var(--mc-color-global-color-brand-role-intent-warning-dark);
+}

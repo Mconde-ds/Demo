@@ -1,0 +1,15 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-dark {
+  /* medium border radius */
+  --mc-border-radius-alias-border-radius-md: var(--mc-dimension-global-shape-md);
+  /* border radius of none */
+  --mc-border-radius-alias-border-radius-none: var(--mc-dimension-global-shape-none);
+  /* small border radius */
+  --mc-border-radius-alias-border-radius-sm: var(--mc-dimension-global-shape-sm);
+  /* large border radius */
+  --mc-border-radius-alias-border-radius-lg: var(--mc-dimension-global-shape-lg);
+}

@@ -1,0 +1,13 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-screen-large {
+  /* small thickness for borders */
+  --mc-border-width-alias-border-width-xs: var(--mc-dimension-global-dimension-7xs);
+  /* smallest thickness for borders */
+  --mc-border-width-alias-border-width-sm: var(--mc-dimension-global-dimension-6xs);
+  /* medium border thickness */
+  --mc-border-width-alias-border-width-md: var(--mc-dimension-global-dimension-5xs);
+}

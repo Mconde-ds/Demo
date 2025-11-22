@@ -1,0 +1,117 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-global-dimension {
+  /* extra extra extra small font size unit */
+  --mc-dimension-global-font-size-3xs: 12px;
+  /* extra extra extra small line height unit */
+  --mc-dimension-global-font-line-height-3xs: 20px;
+  /* extra small letter spacing unit */
+  --mc-dimension-global-font-letter-spacing-xs: -0.16px;
+  /* small letter spacing unit */
+  --mc-dimension-global-font-letter-spacing-sm: 0px;
+  /* medium letter spacing unit */
+  --mc-dimension-global-font-letter-spacing-md: 0.08px;
+  /* large letter spacing unit */
+  --mc-dimension-global-font-letter-spacing-lg: 0.16px;
+  /* small paragraph spacing unit */
+  --mc-dimension-global-font-paragraph-spacing-sm: 16px;
+  /* extra extra small font size unit */
+  --mc-dimension-global-font-size-2xs: 14px;
+  /* extra small font size unit */
+  --mc-dimension-global-font-size-xs: 16px;
+  /* small font size unit */
+  --mc-dimension-global-font-size-sm: 20px;
+  /* medium font size unit */
+  --mc-dimension-global-font-size-md: 24px;
+  /* medium large font size unit */
+  --mc-dimension-global-font-size-ml: 28px;
+  /* large font size unit */
+  --mc-dimension-global-font-size-lg: 32px;
+  /* extra large font size unit */
+  --mc-dimension-global-font-size-xl: 40px;
+  /* extra extra large font size unit */
+  --mc-dimension-global-font-size-2xl: 80px;
+  /* extra extra extra large font size unit */
+  --mc-dimension-global-font-size-3xl: 100px;
+  /* extra extra small line height unit */
+  --mc-dimension-global-font-line-height-2xs: 22px;
+  /* extra small line height unit */
+  --mc-dimension-global-font-line-height-xs: 24px;
+  /* small line height unit */
+  --mc-dimension-global-font-line-height-sm: 26px;
+  /* medium line height unit */
+  --mc-dimension-global-font-line-height-md: 32px;
+  /* medium large line height unit */
+  --mc-dimension-global-font-line-height-ml: 40px;
+  /* large line height unit */
+  --mc-dimension-global-font-line-height-lg: 48px;
+  /* extra large line height unit */
+  --mc-dimension-global-font-line-height-xl: 56px;
+  /* extra extra large line height unit */
+  --mc-dimension-global-font-line-height-2xl: 92px;
+  /* extra extra extra large line height unit */
+  --mc-dimension-global-font-line-height-3xl: 112px;
+  /* small radius for branded shapes */
+  --mc-dimension-global-shape-sm: 4px;
+  /* medium radius for branded shapes */
+  --mc-dimension-global-shape-md: 8px;
+  /* large radius for branded shapes */
+  --mc-dimension-global-shape-lg: 12px;
+  /* radius of 0 */
+  --mc-dimension-global-shape-none: 0px;
+  /* 1st step of global dimensions sequence */
+  --mc-dimension-global-dimension-7xs: 1px;
+  /* 1st step of global dimensions sequence */
+  --mc-dimension-global-dimension-6xs: 2px;
+  /* 2nd step of global dimensions sequence */
+  --mc-dimension-global-dimension-5xs: 4px;
+  /* 3rd step of global dimensions sequence */
+  --mc-dimension-global-dimension-4xs: 8px;
+  /* 4th step of global dimensions sequence */
+  --mc-dimension-global-dimension-3xs: 12px;
+  /* 5th step of global dimensions sequence */
+  --mc-dimension-global-dimension-2xs: 16px;
+  /* 6th step of global dimensions sequence */
+  --mc-dimension-global-dimension-xs: 20px;
+  /* 7th step of global dimensions sequence */
+  --mc-dimension-global-dimension-sm: 24px;
+  /* 8th step of global dimensions sequence */
+  --mc-dimension-global-dimension-md: 32px;
+  /* 9th step of global dimensions sequence */
+  --mc-dimension-global-dimension-lg: 44px;
+  /* 10th step of global dimensions sequence */
+  --mc-dimension-global-dimension-xl: 48px;
+  /* 11th step of global dimensions sequence */
+  --mc-dimension-global-dimension-2xl: 52px;
+  /* 12th step of global dimensions sequence */
+  --mc-dimension-global-dimension-3xl: 60px;
+  /* 13th step of global dimensions sequence */
+  --mc-dimension-global-dimension-4xl: 64px;
+  /* 14th step of global dimensions sequence */
+  --mc-dimension-global-dimension-5xl: 72px;
+  /* 15th step of global dimensions sequence */
+  --mc-dimension-global-dimension-6xl: 80px;
+  /* max width for large screen */
+  --mc-dimension-global-dimension-breakpoints-screen-large: 1400px;
+  /* dimension value of none */
+  --mc-dimension-global-dimension-none: 0px;
+  /* min height of section messages */
+  --mc-dimension-component-section-message-height-min: var(--mc-dimension-global-dimension-md);
+  /* top and bottom inner spacing for section messages */
+  --mc-dimension-component-section-message-spacing-inner-y: var(--mc-dimension-global-dimension-2xs);
+  /* left and right inner spacing for section messages */
+  --mc-dimension-component-section-message-spacing-inner-x: var(--mc-dimension-global-dimension-3xs);
+  /* gap for separating elements in section message */
+  --mc-dimension-component-section-message-spacing-gap: var(--mc-dimension-global-dimension-4xs);
+  /* border radius for section messages */
+  --mc-dimension-component-section-message-border-radius: var(--mc-border-radius-alias-border-radius-md);
+  /* line height for small code representation */
+  --mc-dimension-alias-typescale-line-height-code-small: var(--mc-dimension-global-font-line-height-3xs);
+  /* font size for small code representation */
+  --mc-dimension-alias-typescale-font-size-code-small: var(--mc-dimension-global-font-size-2xs);
+  /* letter spacing for small code representation */
+  --mc-dimension-alias-typescale-letter-spacing-code-small: var(--mc-dimension-global-font-letter-spacing-sm);
+}

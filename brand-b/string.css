@@ -1,0 +1,81 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-brand-b {
+  /* Font family for display fonts */
+  --mc-string-global-font-family-display: "Lora";
+  /* Font family for content fonts */
+  --mc-string-global-font-family-content: "Lora";
+  /* heaviest weight for fonts */
+  --mc-string-global-font-weight-black: "Black";
+  /* bold weight for fonts */
+  --mc-string-global-font-weight-bold: "Bold";
+  /* semibold weight for fonts */
+  --mc-string-global-font-weight-semi-bold: "Semi Bold";
+  /* default weight for fonts */
+  --mc-string-global-font-weight-default: "Regular";
+  /* Font Family that is chosed for code visualisation */
+  --mc-string-global-font-family-code: "Geist Mono";
+  /* font weight for display 01 */
+  --mc-string-alias-typescale-font-weight-display-1: var(--mc-string-global-font-weight-black);
+  /* font weight for display 02 */
+  --mc-string-alias-typescale-font-weight-display-2: var(--mc-string-global-font-weight-bold);
+  /* font weight for headline 01 */
+  --mc-string-alias-typescale-font-weight-headline-1: var(--mc-string-global-font-weight-black);
+  /* font weight for headline 02 */
+  --mc-string-alias-typescale-font-weight-headline-2: var(--mc-string-global-font-weight-bold);
+  /* font weight for headline 03 */
+  --mc-string-alias-typescale-font-weight-headline-3: var(--mc-string-global-font-weight-bold);
+  /* font weight for headline 04 */
+  --mc-string-alias-typescale-font-weight-headline-4: var(--mc-string-global-font-weight-bold);
+  /* font weight for headline 05 */
+  --mc-string-alias-typescale-font-weight-headline-5: var(--mc-string-global-font-weight-bold);
+  /* font weight for single line  labels */
+  --mc-string-alias-typescale-font-weight-label-short: var(--mc-string-global-font-weight-semi-bold);
+  /* font weight for multi line labels */
+  --mc-string-alias-typescale-font-weight-label-long: var(--mc-string-global-font-weight-bold);
+  /* font weight for single line paragraph texts */
+  --mc-string-alias-typescale-font-weight-body-short: var(--mc-string-global-font-weight-default);
+  /* font weight for multi line paragraph texts */
+  --mc-string-alias-typescale-font-weight-body-long: var(--mc-string-global-font-weight-default);
+  /* font weight for small paragraph texts */
+  --mc-string-alias-typescale-font-weight-body-small: var(--mc-string-global-font-weight-default);
+  /* font weight for hyperlinks */
+  --mc-string-alias-typescale-font-weight-hyperlink-default: var(--mc-string-global-font-weight-default);
+  /* font weight for hyperlinks in hover state */
+  --mc-string-alias-typescale-font-weight-hyperlink-hover: var(--mc-string-global-font-weight-default);
+  /* fontfamily for display 01 */
+  --mc-string-alias-typescale-font-family-display-1: var(--mc-string-global-font-family-display);
+  /* fontfamily for display 02 */
+  --mc-string-alias-typescale-font-family-display-2: var(--mc-string-global-font-family-display);
+  /* fontfamily for headline 01 */
+  --mc-string-alias-typescale-font-family-headline-1: var(--mc-string-global-font-family-content);
+  /* fontfamily for headline 02 */
+  --mc-string-alias-typescale-font-family-headline-2: var(--mc-string-global-font-family-content);
+  /* fontfamily for headline 03 */
+  --mc-string-alias-typescale-font-family-headline-3: var(--mc-string-global-font-family-content);
+  /* fontweight for headline 04 */
+  --mc-string-alias-typescale-font-family-headline-4: var(--mc-string-global-font-family-content);
+  /* fontfamily for headline 05 */
+  --mc-string-alias-typescale-font-family-headline-5: var(--mc-string-global-font-family-content);
+  /* fontfamily for single line labels */
+  --mc-string-alias-typescale-font-family-label-short: var(--mc-string-global-font-family-content);
+  /* fontfamily for multi line labels */
+  --mc-string-alias-typescale-font-family-label-long: var(--mc-string-global-font-family-content);
+  /* fontfamily for single line paragraph texts */
+  --mc-string-alias-typescale-font-family-body-short: var(--mc-string-global-font-family-content);
+  /* fontfamily for multi line paragraph texts */
+  --mc-string-alias-typescale-font-family-body-long: var(--mc-string-global-font-family-content);
+  /* fontfamily for small paragraph texts */
+  --mc-string-alias-typescale-font-family-body-small: var(--mc-string-global-font-family-content);
+  /* fontfamily for hyperlinks */
+  --mc-string-alias-typescale-font-family-hyperlink-default: var(--mc-string-global-font-family-content);
+  /* fontfamily for hyperlinks in hover state */
+  --mc-string-alias-typescale-font-family-hyperlink-hover: var(--mc-string-global-font-family-content);
+  /* font family for code representation */
+  --mc-string-alias-typescale-font-family-code-small: var(--mc-string-global-font-family-code);
+  /* font weight for small code representation */
+  --mc-string-alias-typescale-font-weight-code-small: var(--mc-string-global-font-weight-default);
+}
